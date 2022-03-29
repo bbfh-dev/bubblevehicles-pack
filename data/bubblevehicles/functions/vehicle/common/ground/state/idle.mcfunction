@@ -1,0 +1,1 @@
+execute as @s[tag=-buvs.is_moving] run function bubblevehicles:vehicle/common/ground/state/set_idle

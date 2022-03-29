@@ -1,0 +1,1 @@
+tag @s add -buvs.is_moving
