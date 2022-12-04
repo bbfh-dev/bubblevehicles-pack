@@ -1,6 +1,5 @@
 {
-    "replace": false,
     "values": [
-        "bubblevehicles:tick"
+        "bubblevehicles:core/tick"
     ]
 }

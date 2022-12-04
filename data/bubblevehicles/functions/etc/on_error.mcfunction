@@ -1,3 +1,0 @@
-#! This is a jam protection. Whenever a player/server grants all advancements to the player, what could lead to the datapack not working correctly, this advancement notifies about the issue.
-advancement revoke @s only bubblevehicles:on_error
-tellraw @a ["BubbleVehicles WARNING \u25b6 ", {"text":"Some of the Data Packs/Players/Plugins are granting all advancements to the players. This will cause data pack to behave incorrectly!", "color":"red"}]

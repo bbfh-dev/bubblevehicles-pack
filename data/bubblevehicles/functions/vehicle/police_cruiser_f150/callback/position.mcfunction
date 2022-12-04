@@ -1,1 +1,0 @@
-execute if entity @s[name="Police Cruiser F150"] run function bubblevehicles:vehicle/police_cruiser_f150/position

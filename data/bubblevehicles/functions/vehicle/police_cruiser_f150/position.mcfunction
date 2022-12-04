@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:armor_stand, tag=buvs.model] if score @s buvs.registry = @e[type=minecraft:armor_stand, tag=+buvs.this_vehicle, limit=1] buvs.registry run tp @s ~ ~ ~ ~ ~

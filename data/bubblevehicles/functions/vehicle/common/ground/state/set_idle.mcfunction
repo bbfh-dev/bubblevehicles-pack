@@ -1,1 +1,0 @@
-tag @s remove -buvs.is_moving

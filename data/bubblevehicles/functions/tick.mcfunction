@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:armor_stand, tag=buvs.vehicle] at @s run function bubblevehicles:vehicle/common/server_tick

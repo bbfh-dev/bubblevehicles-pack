@@ -1,26 +1,26 @@
 {
     "pack": {
-        "pack_format": 8,
+        "pack_format": 10,
         "description": [
             {
                 "text": "BubbleVehicles 4.0a",
-                "color": "#f4b64b"
+                "color": "#23bcff"
             },
             {
                 "text": " | _/_/_",
-                "color": "#9aa3a5"
+                "color": "#ccd8dd"
             },
             {
                 "text": "\nby BubbleFish",
-                "color": "#b64bf4"
+                "color": "#9223ff"
             },
             {
                 "text": " ",
                 "bold": true
             },
             {
-                "text": "       | 1.18.X",
-                "color": "#9aa3a5"
+                "text": " | 1.19 - 1.19.2",
+                "color": "#ccd8dd"
             }
         ],
         "metadata": {
